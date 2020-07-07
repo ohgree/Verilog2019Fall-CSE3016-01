@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a75tfgg484-1" LaunchTime="1574668929">
+  <File Type="ROUTE-PWR" Name="DFlipFlop_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="DFlipFlop.tcl"/>
+  <File Type="BITSTR-BMM" Name="DFlipFlop_bd.bmm"/>
+  <File Type="ROUTE-PWR-SUM" Name="DFlipFlop_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="DFlipFlop_reports.tcl"/>
+  <File Type="OPT-DCP" Name="DFlipFlop_opt.dcp"/>
+  <File Type="OPT-DRC" Name="DFlipFlop_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="DFlipFlop.hwdef"/>
+  <File Type="PWROPT-DCP" Name="DFlipFlop_pwropt.dcp"/>
+  <File Type="PLACE-DCP" Name="DFlipFlop_placed.dcp"/>
+  <File Type="PLACE-IO" Name="DFlipFlop_io_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="DFlipFlop_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="DFlipFlop_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="DFlipFlop_control_sets_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="DFlipFlop_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BGN" Name="DFlipFlop.bgn"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="DFlipFlop_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="DFlipFlop.bin"/>
+  <File Type="PHYSOPT-DCP" Name="DFlipFlop_physopt.dcp"/>
+  <File Type="BITSTR-MSK" Name="DFlipFlop.msk"/>
+  <File Type="ROUTE-ERROR-DCP" Name="DFlipFlop_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="DFlipFlop_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="DFlipFlop_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="DFlipFlop_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="DFlipFlop_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="DFlipFlop_drc_routed.rpx"/>
+  <File Type="BITSTR-LTX" Name="DFlipFlop.ltx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="DFlipFlop_methodology_drc_routed.rpt"/>
+  <File Type="BITSTR-MMI" Name="DFlipFlop.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="DFlipFlop_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="DFlipFlop_methodology_drc_routed.pb"/>
+  <File Type="BITSTR-SYSDEF" Name="DFlipFlop.sysdef"/>
+  <File Type="ROUTE-PWR-RPX" Name="DFlipFlop_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="DFlipFlop_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="DFlipFlop_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="DFlipFlop_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="DFlipFlop_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="DFlipFlop_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-CLK" Name="DFlipFlop_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="DFlipFlop_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="DFlipFlop_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="DFlipFlop_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="DFlipFlop_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="DFlipFlop_postroute_physopt_bb.dcp"/>
+  <File Type="BG-BIT" Name="DFlipFlop.bit"/>
+  <File Type="BITSTR-RBT" Name="DFlipFlop.rbt"/>
+  <File Type="BITSTR-NKY" Name="DFlipFlop.nky"/>
+  <File Type="BG-DRC" Name="DFlipFlop.drc"/>
+  <File Type="RDI-RDI" Name="DFlipFlop.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/designs.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="DFlipFlop"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/const.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TargetConstrsFile" Val="$PSRCDIR/constrs_1/new/const.xdc"/>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2018"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

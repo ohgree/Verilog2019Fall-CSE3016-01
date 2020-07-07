@@ -1,0 +1,9 @@
+User DIP Switch
+0  1  2   3    4   5  6  7   8    9      10
+J4 L3 K3 M2 K6 J6 L5 L4 Y16 AA16 AB16
+
+LED
+0    1    2    3    4    5    6    7    8      9     10
+F15 F13 F14 F16 E17 C14 C15 E13 AA10 AA1 V10
+
+xc7a75tfgg484-1

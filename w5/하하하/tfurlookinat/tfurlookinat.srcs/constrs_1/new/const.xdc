@@ -1,0 +1,18 @@
+set_property IOSTANDARD LVCMOS18 [get_ports a]
+set_property IOSTANDARD LVCMOS18 [get_ports b]
+set_property IOSTANDARD LVCMOS18 [get_ports out]
+set_property PACKAGE_PIN J4 [get_ports a]
+set_property PACKAGE_PIN L3 [get_ports b]
+set_property PACKAGE_PIN F15 [get_ports out]
+
+set_property PACKAGE_PIN K3 [get_ports c]
+set_property IOSTANDARD LVCMOS18 [get_ports c]
+
+set_property IOSTANDARD LVCMOS18 [get_ports eq]
+set_property IOSTANDARD LVCMOS18 [get_ports le]
+set_property IOSTANDARD LVCMOS18 [get_ports lg]
+set_property IOSTANDARD LVCMOS18 [get_ports neq]
+set_property PACKAGE_PIN F15 [get_ports eq]
+set_property PACKAGE_PIN F13 [get_ports le]
+set_property PACKAGE_PIN F14 [get_ports lg]
+set_property PACKAGE_PIN F16 [get_ports neq]

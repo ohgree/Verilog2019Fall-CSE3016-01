@@ -1,0 +1,9 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/sogang/Desktop/tfurlookinat/tfurlookinat.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+C:/Users/sogang/Desktop/tfurlookinat/tfurlookinat.srcs/sim_1/new/sim.v,1570431104,verilog,,,,boolsim;cmpsim;sim,,,,,,,,
+C:/Users/sogang/Desktop/tfurlookinat/tfurlookinat.srcs/sources_1/new/boolf.v,1570430308,verilog,,C:/Users/sogang/Desktop/tfurlookinat/tfurlookinat.srcs/sim_1/new/sim.v,,boolf1A;boolf1B;boolf2A;boolf2B,,,,,,,,
+C:/Users/sogang/Desktop/tfurlookinat/tfurlookinat.srcs/sources_1/new/cmp.v,1570430913,verilog,,C:/Users/sogang/Desktop/tfurlookinat/tfurlookinat.srcs/sim_1/new/sim.v,,cmp,,,,,,,,
+C:/Users/sogang/Desktop/tfurlookinat/tfurlookinat.srcs/sources_1/new/dm.v,1570429675,verilog,,C:/Users/sogang/Desktop/tfurlookinat/tfurlookinat.srcs/sim_1/new/sim.v,,dm1A;dm1B;dm2A;dm2B,,,,,,,,

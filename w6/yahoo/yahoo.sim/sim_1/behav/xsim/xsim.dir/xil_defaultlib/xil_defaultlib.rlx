@@ -1,0 +1,9 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/sogang/Desktop/yahoo/yahoo.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+C:/Users/sogang/Desktop/yahoo/yahoo.srcs/sim_1/new/sim.v,1571038183,verilog,,,,convsim;sim,,,,,,,,
+C:/Users/sogang/Desktop/yahoo/yahoo.srcs/sources_1/new/adder.v,1571034384,verilog,,C:/Users/sogang/Desktop/yahoo/yahoo.srcs/sim_1/new/sim.v,,full_adder;half_adder,,,,,,,,
+C:/Users/sogang/Desktop/yahoo/yahoo.srcs/sources_1/new/converter.v,1571039965,verilog,,C:/Users/sogang/Desktop/yahoo/yahoo.srcs/sim_1/new/sim.v,,converter;converterPOS,,,,,,,,
+C:/Users/sogang/Desktop/yahoo/yahoo.srcs/sources_1/new/subtractor.v,1571036403,verilog,,C:/Users/sogang/Desktop/yahoo/yahoo.srcs/sim_1/new/sim.v,,full_sub;half_sub,,,,,,,,

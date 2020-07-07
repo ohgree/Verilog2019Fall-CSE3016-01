@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Mon Nov 25 17:02:12 2019
+# Process ID: 8288
+# Current directory: C:/Users/sogang/Desktop/kingbatnae/kingbatnae.runs/synth_1
+# Command line: vivado.exe -log DFlipFlop.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source DFlipFlop.tcl
+# Log file: C:/Users/sogang/Desktop/kingbatnae/kingbatnae.runs/synth_1/DFlipFlop.vds
+# Journal file: C:/Users/sogang/Desktop/kingbatnae/kingbatnae.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source DFlipFlop.tcl -notrace

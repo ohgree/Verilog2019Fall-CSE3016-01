@@ -1,0 +1,11 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/sogang/Desktop/hehehe/hehehe.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+C:/Users/sogang/Desktop/hehehe/hehehe.srcs/sim_1/new/nandsim.v,1569827204,verilog,,,,nandsim;norsim,,,,,,,,
+C:/Users/sogang/Desktop/hehehe/hehehe.srcs/sim_1/new/xorsim.v,1569828440,verilog,,,,aoisim;xorsim,,,,,,,,
+C:/Users/sogang/Desktop/hehehe/hehehe.srcs/sources_1/new/aoi.v,1569828333,verilog,,C:/Users/sogang/Desktop/hehehe/hehehe.srcs/sim_1/new/xorsim.v,,aoi,,,,,,,,
+C:/Users/sogang/Desktop/hehehe/hehehe.srcs/sources_1/new/nandg.v,1569825422,verilog,,C:/Users/sogang/Desktop/hehehe/hehehe.srcs/sim_1/new/nandsim.v,,nandga;nandgb,,,,,,,,
+C:/Users/sogang/Desktop/hehehe/hehehe.srcs/sources_1/new/norg.v,1569827132,verilog,,C:/Users/sogang/Desktop/hehehe/hehehe.srcs/sim_1/new/nandsim.v,,norga;norgb,,,,,,,,
+C:/Users/sogang/Desktop/hehehe/hehehe.srcs/sources_1/new/xorg.v,1569827517,verilog,,C:/Users/sogang/Desktop/hehehe/hehehe.srcs/sim_1/new/xorsim.v,,xorga;xorgb,,,,,,,,

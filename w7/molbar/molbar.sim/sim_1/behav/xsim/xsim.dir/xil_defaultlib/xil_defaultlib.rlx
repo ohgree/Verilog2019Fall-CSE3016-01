@@ -1,0 +1,7 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/sogang/Desktop/molbar/molbar.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+C:/Users/sogang/Desktop/molbar/molbar.srcs/sim_1/new/sim.v,1572247550,verilog,,,,cmp_sim;parity_sim;pc_sim,,,,,,,,
+C:/Users/sogang/Desktop/molbar/molbar.srcs/sources_1/new/parity.v,1572247905,verilog,,C:/Users/sogang/Desktop/molbar/molbar.srcs/sim_1/new/sim.v,,ParityCheck;ParityGen;cmp,,,,,,,,

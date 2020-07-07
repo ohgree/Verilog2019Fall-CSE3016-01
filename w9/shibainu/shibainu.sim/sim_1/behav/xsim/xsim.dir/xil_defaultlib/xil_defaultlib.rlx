@@ -1,0 +1,7 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/sogang/Desktop/shibainu/shibainu.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+C:/Users/sogang/Desktop/shibainu/shibainu.srcs/sim_1/new/sim.v,1573456311,verilog,,,,b2dsim;decodersim;demuxsim;encodersim;muxsim,,,,,,,,
+C:/Users/sogang/Desktop/shibainu/shibainu.srcs/sources_1/new/designs.v,1573456969,verilog,,C:/Users/sogang/Desktop/shibainu/shibainu.srcs/sim_1/new/sim.v,,ah_decoder;al_decoder;bcd2dec;demux14;encoder;mux41,,,,,,,,
